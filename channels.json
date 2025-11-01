@@ -1,40 +1,6 @@
 [
  [
   
-  
- {
-    "name": "test",
-    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD-audio_98835_eng=98800-video=1272000.m3u8",
-    "type": "hls"
-  }, 
-  
- {
-    "name": "SPORTS",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8",
-    "type": "hls"
-  }, 
-  
- {
-    "name": "DD NATIONAL",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_5.m3u8",
-    "type": "hls"
-  }, 
-  {
-    "name": "DD BHARTI",
-    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index_3.m3u8",
-    "type": "hls"
-  }, 
- 
- {
-    "name": "BOLLY FLIX",
-    "url": "https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8",
-    "type": "hls"
-  }, 
- {
-    "name": "MOVIES",
-    "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-    "type": "hls"
-  }, 
 
    {
     "name": "DESI PLAY TV",
